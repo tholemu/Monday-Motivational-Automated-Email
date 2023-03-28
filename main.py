@@ -3,7 +3,7 @@ import datetime as dt
 import random
 
 MY_EMAIL = "bowlers@yahoo.com"
-MY_PASSWORD = "sgolwfrpbwtnkunc"
+MY_PASSWORD = "xxxxxxxxx"
 
 now = dt.datetime.now()
 weekday = now.weekday()
